@@ -1,4 +1,4 @@
-# L'Histoire d'Anegh
+# Les contes d'Anegh
 Sur la promenade de Waukyne au chapitre 6 ou à Amkethran, un mage nommé Nomoran viendra quérir votre aide pour sauver son village d'une Horde qui vient pour le détruire.
 
 Le mods inclut :
